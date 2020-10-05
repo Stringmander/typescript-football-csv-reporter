@@ -1,0 +1,1 @@
+# typescript-football-csv-reporter
